@@ -1,4 +1,4 @@
-# iscooter-i9-max-remote
+# iscooter-i10-max-remote
 
 Remote to use as replacement of iScooter app (https://play.google.com/store/apps/details?id=com.iscootercar.iscooter&hl=nl).
 
